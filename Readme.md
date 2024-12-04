@@ -84,6 +84,7 @@ detectron2_project/
 ├── run_detectron2.py      # Script principal para inferencia
 └── README.md              # Documentación del proyecto
 
+
 Colaboración
 
 Este repositorio es colaborativo. Si deseas contribuir:
