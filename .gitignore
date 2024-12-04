@@ -1,0 +1,18 @@
+# Ignorar archivos temporales
+*.pyc
+__pycache__/
+
+# Ignorar salidas
+data/outputs/
+
+# Ignorar entornos virtuales
+venv/
+detectron2_env/
+
+# Ignorar configuraciones locales de VS Code
+.vscode/
+
+# Ignorar archivos grandes y temporales
+*.log
+*.tmp
+
